@@ -68,16 +68,4 @@ Below are a few suggestions, recommendations, and answers to common questions on
 3. The string method `split()` will convert a string to array.
 4. The array method `join()` will convert an array to a string.
 5. The array method `slice()` can be used to make a copy of an array. 
-6. The array methods `pop()`, `shift()`, and `splice()` will return the item that was removed from an array.
-
-## Example
-The following video is an example of how a finished version of the assignment could look like.
-
-[Scramble](https://youtu.be/tl6FeUNb06A)
-
-## Submission
-When the project is completed, follow the steps below to submit for grading:
-
-1. Create a commit with the message "Completes the Scramble assignment"
-2. Push all commits to GitHub.
-3. Submit the URL to your GitHub repository to the **Scramble** assignment on BrightSpace. 
+6. The array methods `pop()`, `shift()`, and `splice()` will return the item that was removed from an array. 
